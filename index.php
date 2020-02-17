@@ -1,6 +1,6 @@
 <?php
 
-echo "mensaje1 actualizado parte 2";
+echo "mensaje1 nueva rama";
 
 
 ?>
