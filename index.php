@@ -1,6 +1,6 @@
 <?php
 
-echo "mensaje1";	
+echo "mensaje1 actualizado";
 
 
 ?>
